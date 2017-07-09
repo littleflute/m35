@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Do That Thang.mp3";		
+f[2]	= "02 St. Louis Breakdown.mp3";		
+f[3]	= "03 Door Poppin'.mp3";		
+f[4]	= "04 South Broadway Stumble.mp3";		
+f[5]	= "05 The Devil Went Down to Nola.mp3";		
+f[6]	= "06 Fill My Belly.mp3";		
+f[7]	= "07 A Certain Girl.mp3";		
+f[8]	= "08 Back Pocket.mp3";		
+f[9]	= "09 St. James Infirmary.mp3";		
+f[10]	= "10 Stayin' Alive.mp3";		
+f[11]	= "12 The Devil's Taxi.mp3";		
+f[12]	= "Biscuit.mp3";		
